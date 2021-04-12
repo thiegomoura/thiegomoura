@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys! 👋
 
 <!--
 **thiegomoura/thiegomoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📌 I'm a trainner, gamer, programador bolado and technology enthusiast in the open hours 
+- 💻 It Analyst Computer Science Student 
+- 🚼 Since 1997 
+- 🇧🇷 From Brazil
