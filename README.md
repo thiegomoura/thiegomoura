@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📌 I'm a trainner, gamer, programador bolado and technology enthusiast in the open hours 
+- 📌 I'm a trainner, Programmer Fullstack and technology enthusiast in the open hours 
 - 💻 It Analyst Computer Science Student 
 - 🚼 Since 1997 
 - 🇧🇷 From Brazil
