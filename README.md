@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 📌 I'm backend developer and technology enthusiast in the open hours 
-- 💻 Computer Science Student 
-- 🚼 Since 1997 
+- 💻 Computer Scientist
 - 🇧🇷 From Brazil
