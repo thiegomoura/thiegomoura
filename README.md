@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ☁️ I focus on building efficient, scalable solutions using Clean Architecture and Domain-Driven Design across AWS and Azure cloud environments].<br>
   
-📚 I'm currently expanding my knowledge with a postgraduate degree in AI and Automation[cite: 54], while continually sharpening my English for global communication.<br>
+📚 I'm currently expanding my knowledge with a postgraduate degree in AI and Automation, while continually sharpening my English for global communication.<br>
 
 🎯 Goals: Expand my international experience by taking on new challenges as backend engineer in global teams.<br>
   
